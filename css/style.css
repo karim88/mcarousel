@@ -1,0 +1,15 @@
+.slider .slides {
+  background-color: inherit;
+}
+.slider .slides li a img {
+  box-shadow: 0 0 1px 1px #eee;
+}
+.slider .slides li a div {
+  font-size: 30px;
+  z-index: 2;
+  text-shadow: 0 0 1px #000;
+}
+.slider .slides li a div h4 {
+  padding: 0 5% 0 5%;
+  margin: 0 5% 0 5%;
+}

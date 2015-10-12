@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: material-carousel\n"
+"POT-Creation-Date: 2015-10-12 03:24+0100\n"
+"PO-Revision-Date: 2015-10-12 03:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: Karim Oulad Chalha <herr.linux88@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: materialized-carousel.php\n"
+
+#: materialized-carousel.php:20
+msgid "Materialized Carousel Widget"
+msgstr ""
+
+#: materialized-carousel.php:23
+msgid "A simple Material Disgn Carousel Widget Plugin"
+msgstr ""
+
+#: materialized-carousel.php:68
+msgid "New Title"
+msgstr "عنوان جديد"
+
+#: materialized-carousel.php:78
+msgid "Title: "
+msgstr "عنوان"
+
+#: materialized-carousel.php:84
+msgid "full Width: "
+msgstr "كل العرض: "
+
+#: materialized-carousel.php:86 materialized-carousel.php:107
+msgid "True "
+msgstr "نعم"
+
+#: materialized-carousel.php:87 materialized-carousel.php:108
+msgid "False "
+msgstr "لا"
+
+#: materialized-carousel.php:94
+msgid "Number of posts: "
+msgstr "عدد المقالات: "
+
+#: materialized-carousel.php:100
+msgid "Height of slider: "
+msgstr ""
+
+#: materialized-carousel.php:105
+msgid "Slide indicator visiblity: "
+msgstr ""
+
+#: materialized-carousel.php:113
+msgid "Duration of slide transition: "
+msgstr ""
+
+#: materialized-carousel.php:118
+msgid "Duration between each slide: "
+msgstr ""
