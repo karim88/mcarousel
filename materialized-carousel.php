@@ -2,7 +2,7 @@
 /*
 Plugin Name: Materialized Carousel
 Plugin URI:  http://karim88.github.io/mcarousel
-Description: A simple Material Disgn Carousel, based on Materializecss slider.
+Description: A simple Material Design Carousel, based on Materializecss slider.
 Version:     0.2
 Author:      Karim Oulad Chalha
 Author URI:  http://karim88.github.io
